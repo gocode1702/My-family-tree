@@ -8,7 +8,7 @@ export default function Header() {
     <div className="header">
     </div>
     <div className="header title">
-        <h1>Targaryen Family Tree</h1>
+        <h1>WAHID-BAYA Family Tree</h1>
         <p>From Aegon I to the Dance of the Dragons</p>
     </div>
     <div className="header logos">
